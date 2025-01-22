@@ -1,0 +1,9 @@
+API_ID=your_telegram_api_id
+API_HASH=your_telegram_api_hash
+OPENAI_API_KEY=your_openai_api_key
+SOURCE_CHANNELS=@your_source_channel_username
+TARGET_CHANNEL=@your_target_channel_username
+DATABASE_PATH=./data.sqlite
+SESSION_FILE=./session.sqlite
+OWNER_ID=your_telegram_user_id
+AUTO_APPROVE=false
